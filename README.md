@@ -1,7 +1,7 @@
 # Lenovo K4 Note - LineageOS 15.1 / AOSP 8.1.0
 ==============
 
-This branch is device for building of the LineageOS 15.1 and Android Nougat 8.0.1 AOSP ROMs.
+This branch is device for building of the LineageOS 15.1 and Android Nougat 8.1.0 AOSP ROMs.
 
 ---
 
