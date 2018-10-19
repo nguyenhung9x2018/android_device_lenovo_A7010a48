@@ -1,4 +1,4 @@
-# Lenovo K4 Note - LineageOS 15.0 / AOSP 8.0
+# Lenovo K4 Note - LineageOS 15.1 / AOSP 8.1.0
 ==============
 
 This branch is device for building of the LineageOS 15.1 and Android Nougat 8.0.1 AOSP ROMs.
@@ -8,7 +8,7 @@ This branch is device for building of the LineageOS 15.1 and Android Nougat 8.0.
 # About Device
 
 Lenovo K4 Note(A7010a48)
-![Lenovo K4 Note](http://images.fonearena.com/blog/wp-content/uploads/2016/01/Lenovo-Vibe-K4-Note.jpg "Lenovo K4 Note")
+![Lenovo K4 Note](https://static.digit.in/product/5d6aa8dce00903835bf6d786b65802445cc41a58.jpeg "Lenovo K4 Note")
 
 ### Specifications
 
