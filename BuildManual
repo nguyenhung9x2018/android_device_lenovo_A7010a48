@@ -1,0 +1,13 @@
+How to use this DT and build your ROM ?
+
+Clone Vendor Tree, Device Tree, Kernel Source to your working dir 
+Apply all the patches !
+
+How to lunch now ?
+Copy the below codes in termianl 
+cd working_dir
+. build/envsetup.sh
+export LC_ALL=C
+export USE_CCACHE=1
+lunch lineage_k5fpr-userdebug && make bacon -j10
+ 
