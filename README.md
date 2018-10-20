@@ -1,7 +1,7 @@
 # Lenovo K4 Note - LineageOS 15.1 / AOSP 8.1.0
 ==============
 
-This branch is device for building of the LineageOS 15.1 and Android Nougat 8.1.0 AOSP ROMs.
+This branch is device for building of the LineageOS 15.1 and Android Oreo 8.1.0 AOSP ROMs.For more information about building the ROM, read our[build manual](BuildManual)
 
 ---
 
@@ -28,7 +28,7 @@ Front Camera | 5MP, Int. 5MP (OV5693)
 
 # Build Information
 
-### Testing...
+### Working...
  * Hardware acceleration
  * Wifi
  * Bluetooth
@@ -58,7 +58,7 @@ Front Camera | 5MP, Int. 5MP (OV5693)
 
  ## Broken/Bugs
  -------------
-
+* Nothing for now
 
 ## To be checked
  * Enforcing SELinux
@@ -66,3 +66,8 @@ Front Camera | 5MP, Int. 5MP (OV5693)
 
 ### Thanks to:
  * MohanCM
+ * Zormax 
+ * MediaTek
+ * Zormax 
+ * LineageOS Team 
+ * Many more ;)
