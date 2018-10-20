@@ -1,4 +1,4 @@
-# Lineage hardware
+# CM hardware
 BOARD_HARDWARE_CLASS := $(LOCAL_PATH)/lineagehw
 
 # MTK Hardware
