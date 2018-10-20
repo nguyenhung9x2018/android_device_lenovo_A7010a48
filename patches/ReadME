@@ -1,5 +1,15 @@
+How to apply patches ?
+Auto-way 
+cd WORKING_DIR
+sh device/lenovo/k5fpr/patches/install.sh
+
+Manual-way 
 To apply patches copy patch to working dir (e.g frameworks/base)
 git status (check if they are already commited, if no then you will see your patch name with red color.)
 git add . 
 git commit -m "name of patch" 
 All set ! Repeat this and install patches !
+
+To uninstall 
+cd WORKING_DIR
+sh device/lenovo/k5fpr/patches/uninstall.sh
