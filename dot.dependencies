@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "mohancm100/android_kernel_lenovo_k5fpr",
+    "repository": "mohancm100/android_kernel_lenovo_A7010a48",
     "target_path": "kernel/lenovo/k5fpr",
     "branch": "LineageOS-15.0"
   }
