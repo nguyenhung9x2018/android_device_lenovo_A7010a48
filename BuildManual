@@ -3,18 +3,11 @@ How to use this DT and build your ROM ?
 Clone Vendor Tree, Device Tree, Kernel Source to your working dir 
 Apply all the patches !
 
-How to lunch now ?
-Copy the below codes in termianl 
+How to lunch ?
+Copy the below codes in terminal
 cd working_dir
 . build/envsetup.sh
 export LC_ALL=C
 export USE_CCACHE=1
 lunch lineage_k5fpr-userdebug && make bacon -j10
  
-Now one more important thing... 
-As we have nuked SePolicy you will have to make kernel permissive to do so get to your kernel dir i.e for eg (android/lineage/kernel)
-After that locate to arch/arm64/configs
-Open those deconfig files and look for this CONFIG_SECURITY_SELINUX=y 
-Just copy this code just below it CONFIG_SECURITY_SELINUX_PERMISSIVE=y
-Do same for all the files but one thing is for sure this code will be there at last close to end.
-This code will make kernel permissive or else you will not able to boot into device!
