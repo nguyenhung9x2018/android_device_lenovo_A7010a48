@@ -18,7 +18,7 @@
 $(call inherit-product, vendor/dot/config/common.mk)
 
 # Inherit device configuration
-$(call inherit-product, $(LOCAL_PATH)/device_k5fpr.mk)
+$(call inherit-product, $(LOCAL_PATH)/device_k5fpr.mk
 
 # Device display
 TARGET_SCREEN_HEIGHT := 1920
