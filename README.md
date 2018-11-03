@@ -1,4 +1,11 @@
 # Lenovo K4 Note - DotOS 3.x / AOSP 9.0.0
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-1.png" > 
+</p>
+<p >
+<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-3.png" > 
+</p>
 ==============
 
 This branch is device for building of the DotOS and Android Pie 9.0.0 AOSP ROMs.
