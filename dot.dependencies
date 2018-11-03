@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "mohancm100/android_vendor_lenovo_k5fpr",
+    "target_path": "vendor/lenovo/k5fpr",
+    "branch": "oreo"
+  },
+  {
+    "remote": "github",
+    "repository": "mohancm100/android_kernel_lenovo_k5fpr",
+    "target_path": "kernel/lenovo/k5fpr",
+    "branch": "LineageOS-15.0"
+  }
+] 
