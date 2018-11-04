@@ -73,3 +73,8 @@ Front Camera | 5MP, Int. 5MP (OV5693)
 
 ### Thanks to:
  * MohanCM
+ * bunnyy
+ * LineageOS team
+ * DotOS team
+ * Zormax
+ * Many more ! 
