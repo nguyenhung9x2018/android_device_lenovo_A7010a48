@@ -4,6 +4,7 @@
 # However you can try to apply those by using following command:
 cd WORKING_DIR
 > Here in our case it was cd android/dot
+
 sh device/lenovo/k5fpr/patches/install.sh
 # To uninstall those you copy below code :
 cd WORKING_DIR
