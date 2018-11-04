@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "mohancm100/android_vendor_lenovo_k5fpr",
+    "repository": "SahilSonar/android_vendor_lenovo_k5fpr",
     "target_path": "vendor/lenovo/k5fpr",
-    "branch": "oreo"
+    "branch": "dot-p"
   },
   {
     "remote": "github",
