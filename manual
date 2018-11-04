@@ -23,7 +23,7 @@ export USE_CCACHE=1
 export LC_ALL=C
 
 > Lets start the build 
-brunch k5fpr-eng 
+brunch k5fpr
 
 > This will take ~4hrs as in my case may vary depeding on sepcs of your PC.
 
