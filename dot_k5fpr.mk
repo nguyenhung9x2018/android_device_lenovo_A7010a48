@@ -23,6 +23,7 @@ $(call inherit-product, $(LOCAL_PATH)/device_k5fpr.mk)
 # Device display
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
+DEVICE_RESOLUTION := 1080x1920
 
 # Device identifier
 PRODUCT_BRAND := lenovo
@@ -32,3 +33,7 @@ PRODUCT_MODEL := Lenovo K4 Note
 PRODUCT_NAME := dot_k5fpr
 PRODUCT_RELEASE_NAME := k5fpr
 PRODUCT_RESTRICT_VENDOR_FILES := false
+
+PRODUCT_GMS_CLIENTID_BASE := android-google
+# Available languages
+PRODUCT_LOCALES := en_US en_GB ru_RU uk_UA tr_TR sk_SK vi_VN fr_FR ar_MA en_IN
