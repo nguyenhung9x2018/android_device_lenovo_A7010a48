@@ -1,3 +1,31 @@
-# Build Manual 
+## Build Manual 
 
-Ho
+How to apply patches & Build ROM using this DT ?
+
+Clone Vendor Tree, Kernel Source, Device Tree in your workin dir 
+
+* How to apply patches ?
+> Copy patches to their respective folder. 
+> Like for e.g (frameworks/av)
+git status
+git add .
+git commit -m "name of patch"
+
+* How to build ROM ?
+cd working dir 
+> Like here in my case cd android/dot 
+. build/envsetup.sh/
+
+> To speed up the build copy following code :
+export USE_CCACHE=1
+
+> Newer kernel needs date to set so in order to avoid error just copy below code !
+export LC_ALL=C
+
+> Lets start the build 
+brunch k5fpr-eng 
+
+> This will take ~4hrs as in my case may vary depeding on sepcs of your PC.
+
+
+
