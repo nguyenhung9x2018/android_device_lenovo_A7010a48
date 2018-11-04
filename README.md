@@ -36,6 +36,7 @@ Front Camera | 5MP, Int. 5MP (OV5693)
 # Build Information
 
 ### Testing...
+ * Boot
  * Hardware acceleration
  * Wifi
  * Bluetooth
